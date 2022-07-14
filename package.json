@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@azure/msal-react": "^1.4.3",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@mantine/core": "^4.2.12",
     "@mantine/dates": "^4.2.12",
     "@mantine/dropzone": "^4.2.12",
@@ -24,6 +26,7 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "dayjs": "^1.11.3",
+    "framer-motion": "^6.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
